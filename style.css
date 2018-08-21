@@ -1,0 +1,275 @@
+body{
+    font-family: Arial;
+    font-size: 18pt;
+    background: url(fon.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#ph33 {
+    position:relative;
+	width:1700px;
+	margin: auto;
+    	right: 0;
+    	bottom:0;
+    	left: 0;
+}
+a{
+    font-size: 20px;
+}
+#logo2{
+	height:40px;
+	width:auto;
+	float:left;
+	margin:-10px 20px 0 30px;
+	position:relative;
+}
+#navBar {
+	list-style:none;
+        font-size:15px;
+}
+#box {
+	font-family:"Century Gothic",Tahoma,Helvetica;
+	position: fixed;
+        background-color:#2B2B2B;
+	height:85px;
+    top: -1px;
+	width:100%;
+	z-index:10;
+	opacity:0.99;
+	box-shadow: 0 0 28px rgba(0,0,0,0.5);
+} 
+#navBar {
+	list-style:none;
+	margin:30px 10px 0 10px;
+
+}
+#navBar li {
+	position:relative;
+	display: inline;
+}
+#navBar a {
+	text-decoration:none;
+	padding:10px 10px;
+	color:white;
+}
+
+#navBar a:hover {
+	color:#A9A9A9;
+} 
+
+
+.telo{
+    position: relative;
+    background-image: url(background9.jpg);
+    width: 1500px;
+    height: 100%;
+    margin: auto;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+h3{
+    text-align: center;
+    margin-top: 100px;
+}
+.text1{
+    display: inline-block;
+    margin: 200px 0px 0px 100px;
+    width: 550px;
+    height: 350px;
+}
+.text1 li{
+    padding-left: 50px
+}
+.logs{
+    width: 200px;
+}
+
+.usl{
+    margin:50px 2px 0px 70px;
+    width: 400px;
+    height: 350px;
+    text-align: center;
+    display: inline-block;
+}
+.usl1{
+    margin:20px -200px 0px 300px;
+    width: 400px;
+    height: 350px;
+    text-align: center;
+    display: inline-block;
+}
+#mon{
+    position: relative;
+    left: 250px; 
+}
+.text2{
+    margin-right: 100px ;
+    width: 550px;
+    height: 350px;
+}
+.text2 li{
+    padding-left: 50px
+}
+.text3{
+    margin-left: 30px;
+    display: inline-block;
+    width: 450px;
+    height: 350px;
+    list-style-type: none;
+}
+.text3 li{
+    text-align: center;
+    
+}
+#top{
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+}
+ tr{
+    height: 50px;
+}
+ td{
+    border: 1px solid black;
+}
+h4{
+    float: right;
+    text-align: center;
+    margin-right: 60px
+}
+
+h4.two{
+    float:left;
+    margin-left: 60px;
+     }
+#top2{
+    margin: 40px 0px 0px 30px;
+    text-align: center;
+    width: 700px;
+    height: 500px;
+    display: inline-block;
+}
+.text4{
+    display: inline-block;
+    width: 700px;
+    margin: 50px 0px 0px 30px;
+}
+.text4 1{
+    display: inline-block;
+    width: 700px;
+    margin: 50px 0px 0px 30px;
+    text-align: center;
+}
+#prod{
+    text-align: center;
+}
+.logo{
+    width: 500px;
+    margin-left: 100px;
+}
+.map1{
+    margin: 50px auto;
+    background-image: url(jazure.JPG);
+    width: 1200px;
+    height: 600px;
+    box-shadow: 0 0 10px rgba(0,0,0,1);
+}
+    
+.map2{
+    margin: 50px auto;
+    background-image: url(gaws.JPG);
+    width: 1150px;
+    height: 745px;
+    box-shadow: 0 0 10px rgba(0,0,0,1);
+}
+.map3{
+    margin: 50px auto;
+    background-image: url(gGCP.png);
+    width: 1000px;
+    height: 550px;
+    box-shadow: 0 0 10px rgba(0,0,0,1);
+}
+#VS{
+    margin: auto;
+    width: 1200px;
+    text-align: center;
+    list-style-type: none;
+}
+.text5{
+    width: 1000px;
+    text-align: left;
+    margin: auto;
+}
+.text6{
+    margin-top: 50px;
+    width: 600px;
+    display: inline-block;
+    margin-left: 100px;
+}
+#bar{
+    position: relative;
+    top: -180px;
+}
+.logo {
+ -moz-transition: all 1s ease-out;
+ -o-transition: all 1s ease-out;
+ -webkit-transition: all 1s ease-out;
+ }
+
+.logo:hover {
+ -webkit-transform: scale(1.1);
+ -moz-transform: scale(1.1);
+ -o-transform: scale(1.1);
+}
+.usl {
+ -moz-transition: all 1s ease-out;
+ -o-transition: all 1s ease-out;
+ -webkit-transition: all 1s ease-out;
+ }
+
+.usl:hover {
+ -webkit-transform: scale(1.1);
+ -moz-transform: scale(1.1);
+ -o-transform: scale(1.1);
+}
+.usl1 {
+ -moz-transition: all 1s ease-out;
+ -o-transition: all 1s ease-out;
+ -webkit-transition: all 1s ease-out;
+ }
+
+.usl1:hover {
+ -webkit-transform: scale(1.1);
+ -moz-transform: scale(1.1);
+ -o-transform: scale(1.1);
+}
+
+
+#air{
+    height: 100%;
+}
+#air2{
+    margin: auto;
+    width: 800px;
+    height: 500px;
+}
+#air3{
+    margin: auto;
+    width: 800px;
+    height: 500px;
+}
+#air4{
+    width: 400px;
+    height: 500px;
+}
+#air41{
+    float: right;
+    width: 400px;
+    height: 500px;
+}
+#air42{
+    margin: auto;
+    width: 800px;
+    height: 500px;
+}
